@@ -1,4 +1,5 @@
-local Settings = {
+-- Define settings globally
+_G.Settings = {
     CatBypasser = false,
     InfiniteYield = false,
     AnonymousMode = false, -- Set to true for anonymous mode
